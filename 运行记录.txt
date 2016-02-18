@@ -3,8 +3,7 @@ Type "copyright", "credits" or "license()" for more information.
 >>> ================================ RESTART ================================
 >>> 
 Using gpu device 0: GeForce 940M (CNMeM is disabled)
-DEBUG: nvcc STDOUT mod.cu
-   Creating library C:/Users/lcw/AppData/Local/Theano/compiledir_Windows-7-6.1.7601-SP1-Intel64_Family_6_Model_61_Stepping_4_GenuineIntel-2.7.10-64/tmpdge2cf/265abc51f7c376c224983485238ff1a5.lib and object C:/Users/lcw/AppData/Local/Theano/compiledir_Windows-7-6.1.7601-SP1-Intel64_Family_6_Model_61_Stepping_4_GenuineIntel-2.7.10-64/tmpdge2cf/265abc51f7c376c224983485238ff1a5.exp
+
 
 #dic = 130
 #dic = 130
