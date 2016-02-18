@@ -1,0 +1,392 @@
+Python 2.7.10 (default, May 23 2015, 09:44:00) [MSC v.1500 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Using gpu device 0: GeForce 940M (CNMeM is disabled)
+DEBUG: nvcc STDOUT mod.cu
+   Creating library C:/Users/lcw/AppData/Local/Theano/compiledir_Windows-7-6.1.7601-SP1-Intel64_Family_6_Model_61_Stepping_4_GenuineIntel-2.7.10-64/tmpdge2cf/265abc51f7c376c224983485238ff1a5.lib and object C:/Users/lcw/AppData/Local/Theano/compiledir_Windows-7-6.1.7601-SP1-Intel64_Family_6_Model_61_Stepping_4_GenuineIntel-2.7.10-64/tmpdge2cf/265abc51f7c376c224983485238ff1a5.exp
+
+#dic = 130
+#dic = 130
+#features =  130 #labels =  130
+compiling...
+training...
+we’ve we’ve civil been been things things things things that that said said said said work, work, work, work, been been been 
+
+Iter = 0, Error = 5.03701515198, Time = 7.50199985504
+been been liberties. technology need backgrounds, backgrounds, be be be be day day day day day 
+
+Iter = 1, Error = 5.07375669479, Time = 7.73300004005
+when been to willing willing and and and and and and and and and 
+
+Iter = 2, Error = 4.87469544411, Time = 7.78200006485
+where where is and and and and that that that that that world’s hardest hardest hardest hardest hardest hardest hardest hardest hardest hardest hardest 
+
+Iter = 3, Error = 4.72839791775, Time = 7.58699989319
+where technologies technologies it’s it’s it’s and and never been that that that diverse diverse solve solve solve solve protecting protecting protecting 
+
+Iter = 4, Error = 4.36007657051, Time = 7.54699993134
+palantir is is mission-driven mission-driven a a we’ve we’ve we’ve we’ve 
+
+Iter = 5, Error = 4.3959643364, Time = 7.66799998283
+where succeeded, succeeded, because because a a a financial financial would and and that adapted adapted that that essential to to to to to 
+
+Iter = 6, Error = 4.64350287914, Time = 7.63599991798
+succeed, succeed, we need very very best all all all all 
+
+Iter = 7, Error = 4.17476792336, Time = 7.49900007248
+where we’ve we’ve we’ve we’ve we’ve we’ve we’ve we’ve we’ve we’ve 
+
+Iter = 8, Error = 4.41461174488, Time = 7.59100008011
+where we’ve we’ve we’ve we’ve we’ve we’ve we’ve 
+
+Iter = 9, Error = 4.19253174067, Time = 7.56200003624
+where succeeded, succeeded, it’s it’s a a and different. different. that that that we’ve to to to to and and 
+
+Iter = 10, Error = 3.90470278263, Time = 7.61599993706
+where we’ve succeeded, succeeded, because a a been and and and and and and we’ve we’ve to to to hardest hardest hardest hardest simultaneously 
+
+Iter = 11, Error = 3.56060801744, Time = 7.47500014305
+where we’ve succeeded, we’ve we’ve we’ve been different. 
+
+Iter = 12, Error = 3.45239298344, Time = 7.54299998283
+palantir palantir palantir is because because because and and 
+
+Iter = 13, Error = 3.28178703785, Time = 7.58299994469
+where technologies succeeded, a a a different. financial 
+
+Iter = 14, Error = 3.28456947803, Time = 7.62800002098
+palantir technologies is is a a a and component component component component is is respectful respectful respectful 
+
+Iter = 15, Error = 3.0336741209, Time = 7.64199995995
+palantir technologies technologies it’s it’s been been been 
+
+Iter = 16, Error = 3.0757106185, Time = 7.52200007439
+palantir technologies is is mission-driven mission-driven company, and and and component component component of that that that protecting protecting protecting of of of and 
+
+Iter = 17, Error = 3.4059944272, Time = 7.57299995422
+palantir is a company, company, 
+
+Iter = 18, Error = 2.78960539103, Time = 7.54499983788
+palantir technologies is a a been been different. component component component component that is is is is is rights 
+
+Iter = 19, Error = 2.68472106457, Time = 7.60500001907
+palantir technologies is mission-driven mission-driven company, company, core component component component that that is is is rights privacy privacy privacy privacy privacy privacy 
+
+Iter = 20, Error = 2.37888288498, Time = 7.8109998703
+palantir technologies is a a a a a core of that that that is is fundamental fundamental fundamental fundamental fundamental to civil civil while 
+
+Iter = 21, Error = 2.49855827093, Time = 7.97399997711
+palantir technologies is is mission-driven company, company, company, component component component component mission mission protecting our rights rights privacy privacy privacy liberties. protecting protecting 
+
+Iter = 22, Error = 2.21559784412, Time = 7.78199982643
+palantir technologies is a a and and and core core that that mission mission is fundamental fundamental fundamental to to to and and 
+
+Iter = 23, Error = 2.18825276494, Time = 7.80399990082
+palantir technologies is mission-driven mission-driven company, and core component of that is is protecting rights rights privacy privacy civil civil civil 
+
+Iter = 24, Error = 1.99236143827, Time = 7.50999999046
+palantir technologies is is a company, company, company, and and and and component of that that that protecting protecting fundamental fundamental rights to and 
+
+Iter = 25, Error = 2.09488311112, Time = 7.64499998093
+palantir technologies succeeded, it’s because we’ve been different. different. 
+
+Iter = 26, Error = 2.43991847038, Time = 7.59299993515
+palantir technologies a a mission-driven company, different. different. 
+
+Iter = 27, Error = 2.04279241562, Time = 7.53900003433
+palantir technologies is a mission-driven company, and a core core core component of that mission mission mission protecting protecting protecting fundamental rights rights privacy 
+
+Iter = 28, Error = 1.96738487482, Time = 7.56999993324
+palantir technologies is a mission-driven company, a a component component that is our our privacy privacy privacy privacy privacy civil civil civil liberties. 
+
+Iter = 29, Error = 1.6856351614, Time = 7.5600001812
+palantir technologies is a mission-driven company, company, a a core core of of that that mission mission protecting protecting our rights rights rights rights 
+
+Iter = 30, Error = 1.78450703621, Time = 7.53800010681
+palantir technologies is a mission-driven company, and component component component that that protecting protecting protecting to to to to to 
+
+Iter = 31, Error = 1.54127354473, Time = 7.54100012779
+palantir technologies is a mission-driven company, and a a core of of that mission mission fundamental fundamental fundamental fundamental fundamental fundamental privacy privacy privacy 
+
+Iter = 32, Error = 1.46073102355, Time = 7.32399988174
+palantir technologies is a mission-driven company, and core component component that is is protecting rights rights 
+
+Iter = 33, Error = 1.39705992937, Time = 7.37999987602
+palantir technologies is a mission-driven company, and a a core component component of mission mission mission mission mission protecting privacy privacy privacy to to 
+
+Iter = 34, Error = 1.98117982, Time = 7.66699981689
+palantir technologies is a mission-driven company, and and core of of that that is protecting rights rights rights privacy privacy privacy world’s hardest problems 
+
+Iter = 35, Error = 1.98835284859, Time = 7.57899999619
+palantir technologies is a mission-driven company, and a component component component protecting protecting our our our our civil civil civil civil civil civil civil 
+
+Iter = 36, Error = 1.82275692448, Time = 7.59000015259
+palantir technologies is a mission-driven company, and a core of of of mission mission mission fundamental fundamental rights rights privacy privacy privacy privacy privacy 
+
+Iter = 37, Error = 2.29070099369, Time = 7.50500011444
+palantir technologies is a mission-driven company, a a a component component that that is is protecting fundamental rights to to to liberties. liberties. liberties. 
+
+Iter = 38, Error = 2.28786376491, Time = 7.53399991989
+palantir technologies is a mission-driven company, and a core of of mission mission our our rights rights to to and civil civil 
+
+Iter = 39, Error = 2.3863900423, Time = 7.53500008583
+palantir technologies is a mission-driven company, and a core component component of that mission is is our our our rights to privacy privacy privacy 
+
+Iter = 40, Error = 2.02363215685, Time = 7.58599996567
+palantir technologies is a mission-driven company, a a component component that that is fundamental fundamental and and and and liberties. liberties. 
+
+Iter = 41, Error = 2.32691421509, Time = 7.57999992371
+palantir technologies is a mission-driven company, a different. 
+
+Iter = 42, Error = 2.12451794446, Time = 7.54400014877
+privacy and and liberties protections protections essential to and never in in we’ve when when been been and to to experiences. hardest simultaneously simultaneously 
+
+Iter = 43, Error = 2.34523399472, Time = 7.52999997139
+palantir technologies is a mission-driven company, and a core component of of mission protecting protecting protecting fundamental rights rights privacy civil liberties. liberties. liberties. 
+
+Iter = 44, Error = 2.12886041105, Time = 7.61699986458
+palantir technologies is a mission-driven company, and a core component of that is is is our our to to to and and 
+
+Iter = 45, Error = 1.51689205915, Time = 7.49000000954
+palantir technologies is a mission-driven company, and a core component of that mission is protecting fundamental rights privacy privacy privacy civil 
+
+Iter = 46, Error = 1.41759539321, Time = 7.52399992943
+palantir technologies is a mission-driven company, and a core core component of that that is is is our our fundamental fundamental to to and 
+
+Iter = 47, Error = 1.38089855611, Time = 7.74000000954
+palantir technologies is a mission-driven company, a core component of mission mission protecting protecting our and and and civil civil 
+
+Iter = 48, Error = 1.79687517732, Time = 7.55499982834
+palantir technologies is a mission-driven mission-driven a a said core core in in and management that of and and wrong. to to essential any 
+
+Iter = 49, Error = 1.94601165727, Time = 7.90000009537
+palantir technologies is a mission-driven company, and a core component of that mission is protecting protecting fundamental rights rights privacy privacy privacy privacy privacy 
+
+Iter = 50, Error = 1.83230423182, Time = 7.48799991608
+palantir technologies is a mission-driven company, and a core component of that mission is is our our to to to civil civil liberties. liberties. 
+
+Iter = 51, Error = 1.33461495414, Time = 7.8149998188
+palantir technologies is a mission-driven company, and a core component of mission mission protecting protecting fundamental rights rights privacy and and and 
+
+Iter = 52, Error = 1.17088104635, Time = 8.05499982834
+palantir technologies is a mission-driven company, and a core component of that that is is protecting our fundamental to to to civil civil civil 
+
+Iter = 53, Error = 1.16308730952, Time = 7.73699998856
+palantir technologies is a mission-driven company, and a core component of mission mission protecting fundamental fundamental rights privacy and and 
+
+Iter = 54, Error = 1.17293843254, Time = 7.64700007439
+palantir technologies is a mission-driven company, and a core component component of that mission is is our our fundamental rights privacy privacy privacy privacy 
+
+Iter = 55, Error = 1.08849583194, Time = 7.59200000763
+palantir technologies is a mission-driven company, and a core of that that is protecting our fundamental to and civil civil civil civil liberties. liberties. 
+
+Iter = 56, Error = 0.876272885501, Time = 7.60399985313
+palantir technologies is a mission-driven company, and a core component of that mission mission protecting protecting protecting fundamental rights rights to to to and 
+
+Iter = 57, Error = 0.767550975457, Time = 7.7539999485
+palantir technologies is a mission-driven company, and a core component of that is is our our fundamental privacy privacy privacy liberties. 
+
+Iter = 58, Error = 0.844416890666, Time = 7.67700004578
+palantir technologies is a mission-driven company, and a core component of that mission mission protecting protecting fundamental fundamental rights rights and and and and 
+
+Iter = 59, Error = 0.804954601452, Time = 7.49300003052
+palantir technologies is a mission-driven company, and a core component of that is is protecting our our to to privacy privacy liberties. liberties. 
+
+Iter = 60, Error = 0.692409615219, Time = 7.59700012207
+palantir technologies is a mission-driven company, and a core component of mission mission protecting our fundamental rights to privacy and and 
+
+Iter = 61, Error = 0.729325263947, Time = 7.95399999619
+palantir technologies is a mission-driven company, and a core component of that that is is protecting our fundamental fundamental rights privacy privacy privacy civil 
+
+Iter = 62, Error = 0.696239564568, Time = 7.5759999752
+palantir technologies is a mission-driven company, and a core component of mission mission protecting our rights to to civil civil liberties. liberties. liberties. liberties. 
+
+Iter = 63, Error = 1.14371102881, Time = 7.73099994659
+palantir technologies is a mission-driven company, and a core component of that mission is is our our fundamental rights to privacy and and 
+
+Iter = 64, Error = 0.828547461145, Time = 7.56299996376
+palantir technologies is a mission-driven company, and a core component of that mission protecting protecting fundamental rights privacy privacy and civil 
+
+Iter = 65, Error = 0.749049008079, Time = 7.59100008011
+palantir technologies is a mission-driven company, and a core component of that mission mission is our our rights rights rights to and and civil 
+
+Iter = 66, Error = 0.650936841313, Time = 7.56599998474
+palantir technologies is a mission-driven company, and a core component of that is is protecting fundamental fundamental to to civil civil liberties. liberties. liberties. 
+
+Iter = 67, Error = 0.685183047131, Time = 7.58300018311
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our rights rights to privacy and and 
+
+Iter = 68, Error = 0.610072091781, Time = 7.47899985313
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights rights privacy privacy civil civil liberties. 
+
+Iter = 69, Error = 0.525082196482, Time = 7.52700018883
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our to to to and and 
+
+Iter = 70, Error = 0.410126859788, Time = 7.5
+palantir technologies is a mission-driven company, and a core component of that mission is protecting protecting fundamental rights rights privacy privacy privacy civil liberties. 
+
+Iter = 71, Error = 0.377596657537, Time = 7.61800003052
+palantir technologies is a mission-driven company, and a core component of that mission is is our fundamental to to and and liberties. liberties. 
+
+Iter = 72, Error = 0.435460137762, Time = 7.52000021935
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy civil civil civil 
+
+Iter = 73, Error = 0.437749875244, Time = 7.55200004578
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental to to privacy and liberties. liberties. 
+
+Iter = 74, Error = 0.342749559414, Time = 7.49699997902
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights rights privacy privacy civil civil 
+
+Iter = 75, Error = 0.2838988184, Time = 7.61599993706
+palantir technologies is a mission-driven company, and a core component of that mission is our fundamental rights privacy and and liberties. 
+
+Iter = 76, Error = 0.395620066859, Time = 7.48000001907
+palantir technologies is a mission-driven company, and a core component of that mission mission is protecting our fundamental rights to to privacy civil civil 
+
+Iter = 77, Error = 0.328789030481, Time = 7.51600003242
+palantir technologies is a mission-driven company, and a core component of that mission is protecting fundamental rights privacy privacy and liberties. liberties. liberties. liberties. 
+
+Iter = 78, Error = 0.258245857991, Time = 7.49199986458
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to to and civil 
+
+Iter = 79, Error = 0.256988824159, Time = 7.5490000248
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights privacy privacy privacy and civil liberties. 
+
+Iter = 80, Error = 0.248683389323, Time = 7.54299998283
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our rights to to and civil 
+
+Iter = 81, Error = 0.204867593013, Time = 7.53699994087
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and and liberties. liberties. 
+
+Iter = 82, Error = 0.220321426075, Time = 7.54099988937
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy privacy civil civil 
+
+Iter = 83, Error = 0.235005009314, Time = 7.55599999428
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights privacy and civil liberties. 
+
+Iter = 84, Error = 0.279546615668, Time = 7.47500014305
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights rights to privacy and civil civil 
+
+Iter = 85, Error = 0.245766350394, Time = 7.46799993515
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental to privacy privacy liberties. liberties. 
+
+Iter = 86, Error = 0.177166491421, Time = 7.51499986649
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil civil 
+
+Iter = 87, Error = 0.150008036615, Time = 7.53799986839
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and and liberties. liberties. 
+
+Iter = 88, Error = 0.136031838041, Time = 7.625
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to and civil civil 
+
+Iter = 89, Error = 0.130402093101, Time = 7.64399981499
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. liberties. 
+
+Iter = 90, Error = 0.157260865159, Time = 7.56999993324
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil 
+
+Iter = 91, Error = 0.143884781469, Time = 7.62699985504
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 92, Error = 0.105901167495, Time = 7.59799981117
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil civil 
+
+Iter = 93, Error = 0.07784772343, Time = 7.47199988365
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 94, Error = 0.0676112044137, Time = 7.55599999428
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. liberties. 
+
+Iter = 95, Error = 0.0638165360782, Time = 7.55999994278
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil 
+
+Iter = 96, Error = 0.0715531475842, Time = 7.59299993515
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. liberties. 
+
+Iter = 97, Error = 0.0964414235204, Time = 7.52800011635
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 98, Error = 0.102097667288, Time = 7.52300000191
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 99, Error = 0.118682167446, Time = 7.60400009155
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 100, Error = 0.0651139672613, Time = 7.53600001335
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 101, Error = 0.0484402201837, Time = 7.57300019264
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 102, Error = 0.0468362473417, Time = 7.53800010681
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 103, Error = 0.048915410554, Time = 7.58999991417
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 104, Error = 0.0569166420726, Time = 7.63499999046
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 105, Error = 0.0744831861462, Time = 7.8220000267
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 106, Error = 0.076486827177, Time = 7.66600012779
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 107, Error = 0.0996750509366, Time = 7.81200003624
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 108, Error = 0.0541259422898, Time = 7.59699988365
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 109, Error = 0.0397457115119, Time = 7.60800004005
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 110, Error = 0.0323410578305, Time = 7.77199983597
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 111, Error = 0.0272409957135, Time = 7.71799993515
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 112, Error = 0.0235741597135, Time = 7.77300000191
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 113, Error = 0.0209633278195, Time = 8.07399988174
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 114, Error = 0.0190598477842, Time = 7.62599992752
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 115, Error = 0.0176987176295, Time = 7.52300000191
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 116, Error = 0.0161215814529, Time = 7.52199983597
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 117, Error = 0.0147059903946, Time = 7.53299999237
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 118, Error = 0.0134056091774, Time = 7.51200008392
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 119, Error = 0.0125665569911, Time = 7.49800014496
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 120, Error = 0.0117986474885, Time = 7.54699993134
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 121, Error = 0.0112535597291, Time = 7.5720000267
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 122, Error = 0.0107445589034, Time = 7.60299992561
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 123, Error = 0.0103181379149, Time = 7.61299991608
+palantir technologies is a mission-driven company, and a core component of that mission is protecting our fundamental rights to privacy and civil liberties. 
+
+Iter = 124, Error = 0.00992270840798, Time = 7.51099991798
+Finished. Time = 962.213999987
+save model...
+
+>>> 
